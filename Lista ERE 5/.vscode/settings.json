@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "xstring": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "cmath": "cpp",
+    "xiosbase": "cpp",
+    "ios": "cpp",
+    "iosfwd": "cpp"
+  }
+}
